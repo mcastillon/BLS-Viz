@@ -1,0 +1,795 @@
+{
+ "name": "node99",
+"children": [
+ {
+ "name": "node95",
+"children": [
+ {
+ "name": "Bakersfield-Delano, CA" 
+},
+{
+ "name": "Fresno, CA" 
+} 
+] 
+},
+{
+ "name": "node98",
+"children": [
+ {
+ "name": "McAllen-Edinburg-Mission, TX" 
+},
+{
+ "name": "node97",
+"children": [
+ {
+ "name": "San Juan-Caguas-Guaynabo, PR" 
+},
+{
+ "name": "node96",
+"children": [
+ {
+ "name": "Las Vegas-Paradise, NV" 
+},
+{
+ "name": "node94",
+"children": [
+ {
+ "name": "Memphis, TN-MS-AR" 
+},
+{
+ "name": "node93",
+"children": [
+ {
+ "name": "node91",
+"children": [
+ {
+ "name": "node79",
+"children": [
+ {
+ "name": "Trenton-Ewing, NJ" 
+},
+{
+ "name": "Washington-Arlington-Alexandria, DC-VA-MD-WV" 
+} 
+] 
+},
+{
+ "name": "node90",
+"children": [
+ {
+ "name": "Huntsville, AL" 
+},
+{
+ "name": "node89",
+"children": [
+ {
+ "name": "Durham-Chapel Hill, NC" 
+},
+{
+ "name": "node78",
+"children": [
+ {
+ "name": "San Jose-Sunnyvale-Santa Clara, CA" 
+},
+{
+ "name": "Seattle-Tacoma-Bellevue, WA" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "node92",
+"children": [
+ {
+ "name": "node27",
+"children": [
+ {
+ "name": "Cape Coral-Fort Myers, FL" 
+},
+{
+ "name": "North Port-Bradenton-Sarasota, FL" 
+} 
+] 
+},
+{
+ "name": "node88",
+"children": [
+ {
+ "name": "node84",
+"children": [
+ {
+ "name": "Jackson, MS" 
+},
+{
+ "name": "node47",
+"children": [
+ {
+ "name": "Baton Rouge, LA" 
+},
+{
+ "name": "New Orleans-Metairie-Kenner, LA" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "node87",
+"children": [
+ {
+ "name": "node77",
+"children": [
+ {
+ "name": "El Paso, TX" 
+},
+{
+ "name": "Poughkeepsie-Newburgh-Middletown, NY" 
+} 
+] 
+},
+{
+ "name": "node86",
+"children": [
+ {
+ "name": "node83",
+"children": [
+ {
+ "name": "Youngstown-Warren-Boardman, OH-PA" 
+},
+{
+ "name": "node69",
+"children": [
+ {
+ "name": "Greenville-Mauldin-Easley, SC" 
+},
+{
+ "name": "node56",
+"children": [
+ {
+ "name": "Fort Wayne, IN" 
+},
+{
+ "name": "node28",
+"children": [
+ {
+ "name": "Detroit-Warren-Livonia, MI" 
+},
+{
+ "name": "Grand Rapids-Wyoming, MI" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "node85",
+"children": [
+ {
+ "name": "Oxnard-Thousand Oaks-Ventura, CA" 
+},
+{
+ "name": "node82",
+"children": [
+ {
+ "name": "Honolulu, HI" 
+},
+{
+ "name": "node81",
+"children": [
+ {
+ "name": "node76",
+"children": [
+ {
+ "name": "node73",
+"children": [
+ {
+ "name": "node71",
+"children": [
+ {
+ "name": "Wichita, KS" 
+},
+{
+ "name": "node70",
+"children": [
+ {
+ "name": "node43",
+"children": [
+ {
+ "name": "Milwaukee-Waukesha-West Allis, WI" 
+},
+{
+ "name": "Minneapolis-St. Paul-Bloomington, MN-WI" 
+} 
+] 
+},
+{
+ "name": "node65",
+"children": [
+ {
+ "name": "Madison, WI" 
+},
+{
+ "name": "node62",
+"children": [
+ {
+ "name": "node57",
+"children": [
+ {
+ "name": "node39",
+"children": [
+ {
+ "name": "Portland-Vancouver-Hillsboro, OR-WA" 
+},
+{
+ "name": "node23",
+"children": [
+ {
+ "name": "Sacramento--Arden-Arcade--Roseville, CA" 
+},
+{
+ "name": "node10",
+"children": [
+ {
+ "name": "Los Angeles-Long Beach-Santa Ana, CA" 
+},
+{
+ "name": "node4",
+"children": [
+ {
+ "name": "San Diego-Carlsbad-San Marcos, CA" 
+},
+{
+ "name": "San Francisco-Oakland-Fremont, CA" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "node54",
+"children": [
+ {
+ "name": "Virginia Beach-Norfolk-Newport News, VA-NC" 
+},
+{
+ "name": "node46",
+"children": [
+ {
+ "name": "node16",
+"children": [
+ {
+ "name": "Providence-Fall River-Warwick, RI-MA" 
+},
+{
+ "name": "node8",
+"children": [
+ {
+ "name": "Springfield, MA-CT" 
+},
+{
+ "name": "Worcester, MA-CT" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "node42",
+"children": [
+ {
+ "name": "node25",
+"children": [
+ {
+ "name": "Hartford-West Hartford-East Hartford, CT" 
+},
+{
+ "name": "New Haven, CT" 
+} 
+] 
+},
+{
+ "name": "node36",
+"children": [
+ {
+ "name": "New York-Northern New Jersey-Long Island, NY-NJ-PA" 
+},
+{
+ "name": "node29",
+"children": [
+ {
+ "name": "node17",
+"children": [
+ {
+ "name": "Albany-Schenectady-Troy, NY" 
+},
+{
+ "name": "node6",
+"children": [
+ {
+ "name": "Syracuse, NY" 
+},
+{
+ "name": "node3",
+"children": [
+ {
+ "name": "Buffalo-Niagara Falls, NY" 
+},
+{
+ "name": "Rochester, NY" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "node26",
+"children": [
+ {
+ "name": "Baltimore-Towson, MD" 
+},
+{
+ "name": "node18",
+"children": [
+ {
+ "name": "Richmond, VA" 
+},
+{
+ "name": "node12",
+"children": [
+ {
+ "name": "node1",
+"children": [
+ {
+ "name": "Kansas City, MO-KS" 
+},
+{
+ "name": "St. Louis, MO-IL" 
+} 
+] 
+},
+{
+ "name": "node2",
+"children": [
+ {
+ "name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD" 
+},
+{
+ "name": "Pittsburgh, PA" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "node59",
+"children": [
+ {
+ "name": "node41",
+"children": [
+ {
+ "name": "Des Moines-West Des Moines, IA" 
+},
+{
+ "name": "Omaha-Council Bluffs, NE-IA" 
+} 
+] 
+},
+{
+ "name": "node55",
+"children": [
+ {
+ "name": "node52",
+"children": [
+ {
+ "name": "Boise City-Nampa, ID" 
+},
+{
+ "name": "node50",
+"children": [
+ {
+ "name": "node37",
+"children": [
+ {
+ "name": "Tulsa, OK" 
+},
+{
+ "name": "node21",
+"children": [
+ {
+ "name": "Houston-Sugar Land-Baytown, TX" 
+},
+{
+ "name": "Oklahoma City, OK" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "node40",
+"children": [
+ {
+ "name": "Salt Lake City, UT" 
+},
+{
+ "name": "node31",
+"children": [
+ {
+ "name": "Raleigh-Cary, NC" 
+},
+{
+ "name": "node14",
+"children": [
+ {
+ "name": "Phoenix-Mesa-Glendale, AZ" 
+},
+{
+ "name": "node13",
+"children": [
+ {
+ "name": "Charlotte-Gastonia-Rock Hill, NC-SC" 
+},
+{
+ "name": "node7",
+"children": [
+ {
+ "name": "Atlanta-Sandy Springs-Marietta, GA" 
+},
+{
+ "name": "Dallas-Fort Worth-Arlington, TX" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "node53",
+"children": [
+ {
+ "name": "Columbia, SC" 
+},
+{
+ "name": "node48",
+"children": [
+ {
+ "name": "node30",
+"children": [
+ {
+ "name": "Chicago-Joliet-Naperville, IL-IN-WI" 
+},
+{
+ "name": "node19",
+"children": [
+ {
+ "name": "Indianapolis-Carmel, IN" 
+},
+{
+ "name": "Nashville-Davidson--Murfreesboro--Franklin, TN" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "node44",
+"children": [
+ {
+ "name": "Little Rock-North Little Rock-Conway, AR" 
+},
+{
+ "name": "node34",
+"children": [
+ {
+ "name": "Chattanooga, TN-GA" 
+},
+{
+ "name": "Knoxville, TN" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "node72",
+"children": [
+ {
+ "name": "node51",
+"children": [
+ {
+ "name": "node32",
+"children": [
+ {
+ "name": "San Antonio-New Braunfels, TX" 
+},
+{
+ "name": "Tucson, AZ" 
+} 
+] 
+},
+{
+ "name": "node33",
+"children": [
+ {
+ "name": "node9",
+"children": [
+ {
+ "name": "Jacksonville, FL" 
+},
+{
+ "name": "Tampa-St. Petersburg-Clearwater, FL" 
+} 
+] 
+},
+{
+ "name": "node24",
+"children": [
+ {
+ "name": "Miami-Fort Lauderdale-Pompano Beach, FL" 
+},
+{
+ "name": "Orlando-Kissimmee-Sanford, FL" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "node58",
+"children": [
+ {
+ "name": "Birmingham-Hoover, AL" 
+},
+{
+ "name": "Charleston-North Charleston-Summerville, SC" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "node75",
+"children": [
+ {
+ "name": "node64",
+"children": [
+ {
+ "name": "Riverside-San Bernardino-Ontario, CA" 
+},
+{
+ "name": "node61",
+"children": [
+ {
+ "name": "Harrisburg-Carlisle, PA" 
+},
+{
+ "name": "node49",
+"children": [
+ {
+ "name": "Lancaster, PA" 
+},
+{
+ "name": "node20",
+"children": [
+ {
+ "name": "Allentown-Bethlehem-Easton, PA-NJ" 
+},
+{
+ "name": "Scranton--Wilkes-Barre, PA" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "node68",
+"children": [
+ {
+ "name": "node45",
+"children": [
+ {
+ "name": "Lexington-Fayette, KY" 
+},
+{
+ "name": "Louisville-Jefferson County, KY-IN" 
+} 
+] 
+},
+{
+ "name": "node63",
+"children": [
+ {
+ "name": "Greensboro-High Point, NC" 
+},
+{
+ "name": "node60",
+"children": [
+ {
+ "name": "Winston-Salem, NC" 
+},
+{
+ "name": "node38",
+"children": [
+ {
+ "name": "Toledo, OH" 
+},
+{
+ "name": "node22",
+"children": [
+ {
+ "name": "Columbus, OH" 
+},
+{
+ "name": "node15",
+"children": [
+ {
+ "name": "Dayton, OH" 
+},
+{
+ "name": "node11",
+"children": [
+ {
+ "name": "Akron, OH" 
+},
+{
+ "name": "node5",
+"children": [
+ {
+ "name": "Cincinnati-Middletown, OH-KY-IN" 
+},
+{
+ "name": "Cleveland-Elyria-Mentor, OH" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "node80",
+"children": [
+ {
+ "name": "node67",
+"children": [
+ {
+ "name": "Albuquerque, NM" 
+},
+{
+ "name": "node35",
+"children": [
+ {
+ "name": "Colorado Springs, CO" 
+},
+{
+ "name": "Denver-Aurora-Broomfield, CO" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "node74",
+"children": [
+ {
+ "name": "Bridgeport-Stamford-Norwalk, CT" 
+},
+{
+ "name": "node66",
+"children": [
+ {
+ "name": "Austin-Round Rock-San Marcos, TX" 
+},
+{
+ "name": "Boston-Cambridge-Quincy, MA-NH" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+}
